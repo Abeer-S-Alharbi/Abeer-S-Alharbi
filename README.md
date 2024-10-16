@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abeer-S-Alharbi
-- 👀 I’m interested in Machine Learning, Artificial Intelligence, and software development.
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and front-end development.
 - 🌱 I’m currently learning Python
 
 <!---
